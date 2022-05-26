@@ -2,7 +2,7 @@
 
 ![Fatec Araras](fatec_araras.png)
 
-### Catálogo dos Curso Desenvolvimento de Software Multiplataforma - Fatec Araras
+### Catálogo dos Projetos Interdisciplinares no curso Desenvolvimento de Software Multiplataforma - Fatec Araras
 
 
 * * *
@@ -12,7 +12,7 @@
 
 #### Tema: _“Trabalho decente e crescimento econômico”_
 
-[Live primeiro semestre de 2021](https://youtu.be/OWRZIh-VWP4)
+[Live primeiro semestre de 2021](https://youtu.be/OWRZIh-VWP4?target=_blank)
 
 [Grupo 1](https://github.com/DSM-GRUPO1/Projeto-Trabalho-Decente-e-Crescimento-Econ-mico)
 
