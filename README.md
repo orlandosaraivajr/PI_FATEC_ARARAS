@@ -7,20 +7,14 @@
 
 * * *
 ### 1o Semestre / 2021
-===================
-
 Para verificar os portifólios, [clique aqui](1SEM2021.md)
 
 * * *
 ### 2o Semestre / 2021
-===================
-
 Para verificar os portifólios, [clique aqui](2SEM2021.md)
 
 * * *
-### 2o Semestre / 2021
-===================
-
+### 1o Semestre / 2022
 Para verificar os portifólios, [clique aqui](1SEM2022.md)
 
 * * *
