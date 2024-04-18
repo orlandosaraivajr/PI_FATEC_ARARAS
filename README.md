@@ -33,3 +33,7 @@ Para verificar os portifólios, [clique aqui](1SEM2023.md)
 Para verificar os portifólios, [clique aqui](2SEM2023.md)
 
 * * *
+### 1o Semestre / 2024
+Para verificar os portifólios, [clique aqui](1SEM2024.md)
+
+* * *
